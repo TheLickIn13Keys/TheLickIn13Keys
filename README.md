@@ -1,16 +1,19 @@
-### Hi there 👋
+## TheLickIn13Keys 🎶
+![@TheLickIn13Keys#9999](https://github-readme-stats.vercel.app/api?username=TheLickIn13Keys&count_private=true&show_icons=true&theme=cobalt)
 
-<!--
-**TheLickIn13Keys/TheLickIn13Keys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Project Links
+[[🌺] mcdojo](https://mcdojo.club)
 
-Here are some ideas to get you started:
+[[🤖] tech tip bot](https://top.gg/bot/703685163191762944)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Socials
+[[🐦] Twitter](https://twitter.com/TheLickIn13Keys)
+
+[[📸] Instagram](https://www.instagram.com/bardia._.anvari/)
+
+[[🧑] NameMC](https://namemc.com/TheLickIn13Keys)
+
+### Discords
+[[🌺] mcdojo Discord](https://mcdojo.club/discord)
+
+[[🤗] Personal Social Server](https://discord.gg/ns3RHwz)
