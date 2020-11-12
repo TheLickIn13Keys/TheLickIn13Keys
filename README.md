@@ -6,6 +6,8 @@
 
 [[🤖] tech tip bot](https://top.gg/bot/703685163191762944)
 
+[[🎼] Sync Met](https://top.gg/bot/703685163191762944)
+
 ### Socials
 [[🐦] Twitter](https://twitter.com/TheLickIn13Keys)
 
