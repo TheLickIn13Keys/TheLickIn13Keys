@@ -1,5 +1,6 @@
 ## TheLickIn13Keys 🎶
 ![@TheLickIn13Keys#9999](https://github-readme-stats.vercel.app/api?username=TheLickIn13Keys&count_private=true&show_icons=true&theme=cobalt)
+![@TheLickIn13Keys#9999]("https://github-readme-stats.vercel.app/api/top-langs/?username=TheLickIn13Keys&layout=compact&count_private=true&include_all_commits=true&hide_border=true&langs_count=10")
 
 ### Public Project Links
 [[🌺] mcdojo](https://mcdojo.club)
