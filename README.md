@@ -7,6 +7,8 @@
 
 [[🤖] tech tip bot](https://top.gg/bot/703685163191762944)
 
+[[🤖] twitch chat bot](https://twitchchat.ml/)
+
 [[🎼] Sync Met](https://top.gg/bot/703685163191762944)
 
 ### Socials
