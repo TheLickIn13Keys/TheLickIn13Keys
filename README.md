@@ -4,7 +4,7 @@
 
 [[🌺] mcdojo](https://mcdojo.club)
 
-[[🧑] bardia.cf](https://bardia.cf)
+[[🎩] bardia.cf](https://bardia.cf)
 
 ### Socials
 [[🐦] Twitter](https://twitter.com/TheLickIn13Keys)
