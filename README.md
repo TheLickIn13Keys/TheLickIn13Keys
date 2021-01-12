@@ -2,14 +2,9 @@
 ![@TheLickIn13Keys#9999](https://github-readme-stats.vercel.app/api?username=TheLickIn13Keys&count_private=true&show_icons=true&theme=cobalt)
 ![@TheLickIn13Keys#9999](https://github-readme-stats.vercel.app/api/top-langs/?username=TheLickIn13Keys&layout=compact&count_private=true&include_all_commits=true&hide_border=true&langs_count=10)
 
-### Public Project Links
 [[🌺] mcdojo](https://mcdojo.club)
 
-[[🤖] tech tip bot](https://top.gg/bot/703685163191762944)
-
-[[🤖] twitch chat bot](https://twitchchat.ml/)
-
-[[🎼] Sync Met](https://top.gg/bot/703685163191762944)
+[[🧑] bardia.cf](https://bardia.cf)
 
 ### Socials
 [[🐦] Twitter](https://twitter.com/TheLickIn13Keys)
