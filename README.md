@@ -13,6 +13,8 @@
 
 [[🧑] NameMC](https://namemc.com/TheLickIn13Keys)
 
+TheLickIn13Keys#7977 on Discord!
+
 ### Discords
 [[🌺] mcdojo Discord](https://mcdojo.club/discord)
 
