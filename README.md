@@ -4,6 +4,8 @@
 
 [[🌺] mcdojo](https://mcdojo.club)
 
+[GOOP House](https://goop.house)
+
 [[🎩] bardia.app](https://bardia.app)
 
 ### Socials
