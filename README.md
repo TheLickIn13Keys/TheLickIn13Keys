@@ -11,7 +11,7 @@
 
 [[📸] Instagram](https://www.instagram.com/bardia._.anvari/)
 
-TheLickIn13Keys#7977 on Discord!
+[[💬] Discord](discordapp.com/users/620845493957951498)
 
 ### Discords
 [[🤗] Personal Support Server](https://discord.gg/ns3RHwz)
