@@ -61,19 +61,16 @@
 
 ###
 
-<div align="center">
+<div style="display: flex; justify-content: space-between; align-items: center;">
   <a href="https://open.spotify.com/user/i3bt4if5z1h6udpogf4mok6mw">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=i3bt4if5z1h6udpogf4mok6mw&count=5&unique=true" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=i3bt4if5z1h6udpogf4mok6mw&count=5&unique=true" alt="Spotify recently played" />
   </a>
+
+  <img height="360" src="https://github.com/TheLickIn13Keys/TheLickIn13Keys/blob/main/Animated%20GIF%20Maker.gif?raw=true" />
+
+  <img height="360" src="https://github.com/TheLickIn13Keys/profile-pictures/blob/main/HEIC%20to%20PNG%20conversion.png?raw=true" />
 </div>
 
-###
-
-<img align="right" height="360" src="https://github.com/TheLickIn13Keys/TheLickIn13Keys/blob/main/Animated%20GIF%20Maker.gif?raw=true"  />
-
-###
-
-<img align="left" height="360" src="https://github.com/TheLickIn13Keys/profile-pictures/blob/main/HEIC%20to%20PNG%20conversion.png?raw=true"  />
 
 ###
 
