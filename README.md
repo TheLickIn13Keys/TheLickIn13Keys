@@ -62,12 +62,12 @@
 ###
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img height="260" src="https://github.com/TheLickIn13Keys/profile-pictures/blob/main/HEIC%20to%20PNG%20conversion.png?raw=true" />
+  
   
   <a href="https://open.spotify.com/user/i3bt4if5z1h6udpogf4mok6mw">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=i3bt4if5z1h6udpogf4mok6mw&count=5&unique=true" alt="Spotify recently played" />
   </a>
-
+  <img height="260" src="https://github.com/TheLickIn13Keys/profile-pictures/blob/main/HEIC%20to%20PNG%20conversion.png?raw=true" />
   <img height="260" src="https://github.com/TheLickIn13Keys/TheLickIn13Keys/blob/main/Animated%20GIF%20Maker.gif?raw=true" />
 
   
