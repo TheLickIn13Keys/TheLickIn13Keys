@@ -61,7 +61,7 @@
 
 ###
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; justify-content: center; align-items: center; margin: 0 auto; max-width: 1000px;">
   <img height="320" src="https://github.com/TheLickIn13Keys/profile-pictures/blob/main/HEIC%20to%20PNG%20conversion.png?raw=true" />
   
   <a href="https://open.spotify.com/user/i3bt4if5z1h6udpogf4mok6mw">
