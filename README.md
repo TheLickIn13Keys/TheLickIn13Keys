@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Bardia. <br><br>I'm a Developer, Homelabber, and Jazz Guitarist from the Bay Area, currently studying at the University of California, Davis.</h2>
+<h2 align="center">Hi 👋! My name is Bardia. <br><br>I'm a Developer, Homelabber, and Jazz Guitarist from the Bay Area, currently interning at Apple and studying at the University of California, Davis.</h2>
 
 ###
 
