@@ -10,8 +10,8 @@
 
 <div align="center">
   <img height="355" src="https://github.com/TheLickIn13Keys/TheLickIn13Keys/blob/main/mikupfp.png?raw=true" />
-  <a href="https://open.spotify.com/user/i3bt4if5z1h6udpogf4mok6mw">
-    <img width="300" height="355" src="https://spotify-recently-played-readme.vercel.app/api?user=i3bt4if5z1h6udpogf4mok6mw&count=8&unique=true" alt="Spotify recently played" />
+  <a href="https://music-profile.rayriffy.com">
+    <img height="355" src="https://music-profile.rayriffy.com/theme/dark.svg?uid=000044.82fb2d3cc0a74fcca4aa596c8974708b.0035" alt="Apple Music GitHub profile" />
   </a>
   <img height="355" src="https://github.com/TheLickIn13Keys/TheLickIn13Keys/blob/main/Animated%20GIF%20Maker.gif?raw=true" />
 </div>
